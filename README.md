@@ -55,7 +55,7 @@ Canary Deployment
 
 1. Создаем deployment приложения с контейнерами nginx и multitool.
 
-Файл deployment доступен по ссылке 
+Файл deployment доступен по ссылке: https://github.com/vmmaltsev/kuber-homeworks-3.4/tree/main/test1
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_159.png)
 
@@ -94,6 +94,6 @@ Canary Deployment
 
 Ответ:
 
-Деплойменты доступны по ссылке:
+Деплойменты доступны по ссылке: https://github.com/vmmaltsev/kuber-homeworks-3.4/tree/main/test2
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_166.png)
