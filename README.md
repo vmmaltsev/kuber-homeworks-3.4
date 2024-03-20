@@ -97,3 +97,7 @@ Canary Deployment
 Деплойменты доступны по ссылке: https://github.com/vmmaltsev/kuber-homeworks-3.4/tree/main/test2
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_166.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_167.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_168.png)
